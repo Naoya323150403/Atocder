@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f09e7c-3c0d-4e86-a5c3-98e8cde0579a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC135_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC167_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC167_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC125_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC134_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC168_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC168_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC168_C.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,9 +135,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589123429949" />
-    <state x="413" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1589170458432">
+    <state x="413" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1589774831001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="413" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589170458432" />
+    <state x="413" y="280" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589774831001" />
+    <state x="413" y="279" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1589277434680" />
   </component>
 </project>
